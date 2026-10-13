@@ -2,5 +2,6 @@
 *.FCStd1
 *.FCStd2
 *.FCStd3
+*.3mf
 *~
 .DS_Store
